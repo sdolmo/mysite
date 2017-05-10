@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'proza_regularregular';
+    src: url('../fonts/prozaregular-webfont.eot');
+    src: url('../fonts/prozaregular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/prozaregular-webfont.woff2') format('woff2'),
+         url('../fonts/prozaregular-webfont.woff') format('woff'),
+         url('../fonts/prozaregular-webfont.ttf') format('truetype'),
+         url('../fonts/prozaregular-webfont.svg#proza_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
